@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Febby](https://github.com/Febby)
 
-- 📫 How to reach me **me@febygunawan.com**
+- 📫 How to reach me **me@febbygunawan.com**
 
 - 📄 Know about my experiences [https://cutt.ly/febby-resume](https://cutt.ly/febby-resume)
 
