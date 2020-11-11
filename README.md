@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febby&label=Profile%20views&color=0e75b6&style=flat" alt="febby" /> </p>
 
-- 🌱 I’m currently learning **Advanced JS Concepts**
+- 🌱 I’m currently learning **Object-Oriented JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Febby](https://github.com/Febby)
 
