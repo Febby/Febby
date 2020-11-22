@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Febby Guanwan</h1>
+<h1 align="center">Hi 👋, I'm Febby Gunawan</h1>
 <h3 align="center">I'm an aspiring front-end developer based in Medan,Indonesia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febby&label=Profile%20views&color=0e75b6&style=flat" alt="febby" /> </p>
