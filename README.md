@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **me@febbygunawan.com**
 
-- 📄 Know about my experiences [https://cutt.ly/febby-resume](https://cutt.ly/febby-resume)
+- 📄 Know about my experiences [https://cutt.ly/febby-gunawan-resume](https://cutt.ly/febby-gunawan-resume)
 
 - ⚡ Fun fact **I love to play tea party with my kids :)**
 
