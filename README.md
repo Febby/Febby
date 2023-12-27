@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=febby" alt="febby" /></a> </p>
 
-- 🔭 I’m currently working on [my Poke App](https://github.com/Febby/My-Poke-App)
+- 🔭 I’m currently working on [GitPubs](https://github.com/Febby/Gitpubs)
 
 - 🌱 I’m currently learning **React & Next.js**
 
